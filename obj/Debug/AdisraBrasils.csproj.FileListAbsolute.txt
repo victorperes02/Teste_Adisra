@@ -1,0 +1,10 @@
+C:\Users\victor.santos\source\repos\AdisraBrasils\AdisraBrasils\bin\Debug\AdisraBrasils.exe.config
+C:\Users\victor.santos\source\repos\AdisraBrasils\AdisraBrasils\bin\Debug\AdisraBrasils.exe
+C:\Users\victor.santos\source\repos\AdisraBrasils\AdisraBrasils\bin\Debug\AdisraBrasils.pdb
+C:\Users\victor.santos\source\repos\AdisraBrasils\AdisraBrasils\obj\Debug\AdisraBrasils.csproj.AssemblyReference.cache
+C:\Users\victor.santos\source\repos\AdisraBrasils\AdisraBrasils\obj\Debug\AdisraBrasils.Form1.resources
+C:\Users\victor.santos\source\repos\AdisraBrasils\AdisraBrasils\obj\Debug\AdisraBrasils.Properties.Resources.resources
+C:\Users\victor.santos\source\repos\AdisraBrasils\AdisraBrasils\obj\Debug\AdisraBrasils.csproj.GenerateResource.cache
+C:\Users\victor.santos\source\repos\AdisraBrasils\AdisraBrasils\obj\Debug\AdisraBrasils.csproj.CoreCompileInputs.cache
+C:\Users\victor.santos\source\repos\AdisraBrasils\AdisraBrasils\obj\Debug\AdisraBrasils.exe
+C:\Users\victor.santos\source\repos\AdisraBrasils\AdisraBrasils\obj\Debug\AdisraBrasils.pdb
